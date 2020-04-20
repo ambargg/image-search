@@ -2,7 +2,7 @@
   "name": "api-photos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ambargg.github.io/image-search",
+  "homepage": "http://ambargg.github.io/React-API-image-search",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
